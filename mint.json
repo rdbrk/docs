@@ -89,3 +89,19 @@
     "linkedin": "https://linkedin.com/company/mintlify"
   }
 }
+
+"tabs": [
+    {
+        "name": "API References",
+        "url": "api-references"
+    },
+    {
+        "name": "Content",
+        "url": "content"
+    },
+    {
+        "name": "Blog",
+        "url": "https://your-website.com/blog"
+    }
+]
+
